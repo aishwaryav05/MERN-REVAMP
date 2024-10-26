@@ -1,13 +1,18 @@
 *{
-    color: green;
+    color: chocolate;
 }
 .one{
-    color:blue;
+    color: blue;
+    font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+
 }
-#id1{
-    color: red;
-    
+h3{
+    color: blueviolet;
 }
-p{
-    color :pink;
+#p1{
+    color: rgb(16, 183, 239);
+    font: 1em sans-serif;
+    font-size: larger;
 }

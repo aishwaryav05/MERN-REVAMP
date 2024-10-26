@@ -1,0 +1,31 @@
+* {
+    color: chocolate;
+}
+
+.one {
+    color: rgb(21, 21, 171);
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;   
+    /* font weight (100-900) */
+    font-style: normal;
+
+}
+
+h3 {
+    color: blueviolet;
+}
+.spanex{
+    text-decoration: none;
+    /* span is a inline element used for specifying particular element in a paragraph */
+}
+
+#p1 {
+    color: rgb(16, 183, 239);
+    font: 1em sans-serif;
+    font-size: 16px; 
+    /* 16 px = i rem */
+    text-decoration: line-through;
+}
+#p2{
+    text-decoration: underline;
+}
