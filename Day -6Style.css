@@ -1,0 +1,25 @@
+.p1{
+  
+}
+.p2{
+    /* to change opacity only for thee image */
+    background-color:rgb(17, 17, 192,0.3);  
+        background-image: url(assets/css\ image\ day-6.png);
+        height: 100px;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        background-size: contain;
+      
+   
+}
+.b1{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-width: 10px;
+    border-style: solid;
+    margin: 20px;
+    border-top-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+}
+
